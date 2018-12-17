@@ -1,7 +1,7 @@
 /**
  * 認証
  */
-const open = require('open');
+const open = require('opn');
 const readline = require('readline');
 const client = require('../lib/');
 
